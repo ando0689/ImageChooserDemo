@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageChooserDemo</string>
+    <string name="take_choose_photo">Choose one</string>
+    <string name="choose_image">Choose Image</string>
+</resources>
